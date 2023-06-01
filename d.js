@@ -7,7 +7,7 @@ const db = require('./../../db/db.js');
 
 const app = express()
 app.use(bodyParser.urlencoded({ extended: true }));
-
+  
 /**
 * YesWeHack - Vulnerable code snippets
 */
